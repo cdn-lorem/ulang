@@ -1,0 +1,111 @@
+{
+  "auth_form": {
+    "validation": {
+      "i_agree": {
+        "blank": "Harap setujui syarat dan ketentuan"
+      },
+      "password": {
+        "too_short": "Kata sandi terlalu singkat",
+        "symbols": "Harap gunakan huruf Latin dan simbol khusus di bawah ini: !\"#$%&'()*+,-./:;<=>?@[]^_`{|}~№£",
+        "too_long": "Kata sandi terlalu panjang. Buat di bawah 64 karakter",
+        "enter_password": "Masukkan kata sandi Anda",
+        "latin_letters": "Tambahkan huruf latin (a-z)",
+        "special_symbols": "Tambahkan angka atau simbol khusus (misal 1 atau &)",
+        "safe_pass": "Kata sandi kuat dan aman!",
+        "medium_pass": "Kekuatan sandi cukup bagus. Jika Anda ingin membuat kata sandi lebih aman, tambahkan simbol khusus dan (&, *, -) serta huruf kapital huruf kecil"
+      },
+      "email": {
+        "invalid_with_example": "Masuk email yang benar. Misal, user@gmail.com"
+      },
+      "identity_pass": "Kata sandi tidak cocok",
+      "blank": "Harap cantumkan informasi yang diperlukan",
+      "email_too_long": "Email tidak boleh terdiri dari 50 karakter"
+    },
+    "back": "Kembali",
+    "password_recovery": {
+      "send": "Kirim",
+      "description": "Tautan untuk menyetel ulang kata sandi akan dikirimkan ke email Anda.",
+      "title": "Pemulihan kata sandi",
+      "text": "Kami telah mengirimkan email kepada Anda berisi tautan untuk memulihkan kata sandi. Periksa folder Spam jika Anda tidak menerimanya, atau minta pemulihan kata sandi lagi"
+    },
+    "ok": "Oke",
+    "errors": {
+      "oauth": {
+        "user_already_exist_sign_in_required": "Pengguna ini sudah terdaftar. Silakan masuk ke profil akun {{name}} Anda dan tambahkan jejaring sosial",
+        "params_failed": "Ada kesalahan saat mengambil data dari jejaring sosial",
+        "user_denied": "Anda telah menolak menghubungkan dengan jejaring sosial"
+      },
+      "account_inactive": "Akun Anda tidak aktif, dan Anda tidak dapat masuk. Silakan kirimkan email ke {{mail}} untuk mencari tahu lebih lanjut",
+      "token_invalid": "Tautan di dalam email sudah kedaluwarsa. Silakan buat ulang kata sandi Anda",
+      "blocked": "Akun Anda telah diblokir, dan Anda tidak dapat masuk. Kirimkan pesan melalui email {{mail}} untuk mengetahui lebih lanjut."
+    },
+    "question": {
+      "sign_up": "Belum memiliki akun?",
+      "sign_in": "Apakah Anda sudah memiliki akun?"
+    },
+    "sign_up": "Buat akun",
+    "sign_in": "Masuk ",
+    "password_reset": {
+      "change_password": "Ubah kata sandi",
+      "changed": "Kata sandi berhasil diubah. Sekarang, Anda dapat mengotorisasi tanpa email dan kata sandi Anda.",
+      "confirmation": "Konfirmasi kata sandi",
+      "title": "Buat kata sandi baru"
+    },
+    "password": "Kata Sandi",
+    "complete_registration": "Selesaikan pendaftaran",
+    "email": "Email",
+    "i_forgot": "Lupa kata sandi saya",
+    "registration_tab": "Pendaftaran",
+    "sign_in_title": "Masuk",
+    "sign_up_title": "Buat akun",
+    "geo_blocking": {
+      "all": "Maaf, platform {{name}} tidak tersedia untuk penggunaan di negara Anda.",
+      "sign_up": "Sayangnya, pendaftar ke platform {{name}} tidak tersedia di negara Anda"
+    },
+    "create": "Buat",
+    "user_agreement": "Saya menyetujui ketentuan <a href=\"{{agreement_href}}\" id=\"{{agreement_id}}\" class=\"underline\" target=\"_blank\">Perjanjian Klien</a> dan <a href=\"{{policy_href}}\" id=\"{{policy_id}}\" class=\"underline\" target=\"_blank\">Kebijakan Privasi</a> dan menyatakan bahwa saya memiliki umur sah secara hukum",
+    "continue_oauth": {
+      "email_title": "Lanjutkan pendaftaran",
+      "email": {
+        "text": "Silakan masukkan email Anda untuk menautkannya ke akun Anda di layanan ini",
+        "button": "Lanjutkan"
+      },
+      "password": {
+        "title": "Konfirmasikan kata sandi",
+        "button": "Masuk",
+        "text": "Anda masuk melalui layanan ini untuk pertama kalinya. Silakan masukkan kata sandi {{platform}} untuk melanjutkan"
+      },
+      "complete_registration": {
+        "title": "Selesaikan pendaftaran",
+        "text": "Pilih mata uang akun. Pengaturan ini tidak akan diubah setelah pendaftaran",
+        "button": "Selesai"
+      }
+    },
+    "password_requirements": "8-64 karakter. Huruf latin, angka, dan simbol khusus. Pastikan Anda tidak menggunakan kata sandi ini di tempat lain",
+    "2fa": {
+      "otp": {
+        "title": "Masukkan kode autentikasi",
+        "text": "Masukkan kode 6 digit dari aplikasi autentikator Anda",
+        "placeholder": "Kode autentikasi",
+        "invalid": "Kode tidak valid. Silakan periksa aplikasi dan coba lagi",
+        "dont_have1": "Gunakan kode pemulihan sebagai gantinya",
+        "dont_have": "Tidak memiliki aplikasi autentikator? "
+      },
+      "button": "Lanjutkan",
+      "issues": "Ada masalah? <a href=\"{{href}}\" class=\"{{class}}\" target=\"_blank\">Baca panduan 2FA kami</a>",
+      "backup": {
+        "title": "Masukkan kode pemulihan",
+        "text": "Gunakan salah satu kode pemulihan yang telah Anda simpan sebelumnya",
+        "placeholder": "Kode pemulihan",
+        "invalid": "Kode pemulihan tidak valid. Coba lagi atau masukkan kode lain",
+        "no_codes": "Tidak ada kode pemulihan? ",
+        "no_codes1": "Gunakan kode autentikasi sebagai gantinya"
+      },
+      "failed": "Otorisasi gagal. Muat ulang halaman dan coba masuk lagi"
+    },
+    "phone_number": {
+      "placeholder": "Telepon (opsional)",
+      "description": "Ini akan meningkatkan perlindungan akun & dana Anda"
+    }
+  }
+}
