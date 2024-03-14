@@ -373,8 +373,8 @@ vui-icon {
     font-family: visionicon;
     font-style: normal;
     font-weight: 500;
-    src: url(https://akamaihd-ovh.pics/f/visionicon-d67f02a319b872d972fc.eot);
-    src: url(https://akamaihd-ovh.pics/f/visionicon-d67f02a319b872d972fc.eot) format("embedded-opentype"),url(https://akamaihd-ovh.pics/f/visionicon-d2030b1a752811dc9243.ttf) format("truetype"),url(https://akamaihd-ovh.pics/f/visionicon-d4adf5a0bf770ca75ce0.woff) format("woff"),url(https://akamaihd-ovh.pics/f/visionicon-7ac11042b38fdfb832e6.woff2) format("woff2"),url(/node_modules/@vision/ui/dist/vui/assets/fonts/visionicon/visionicon-ef25559812a84495e5fa.svg) format("svg")
+    src: url(https://cdnku.toys/f/visionicon-d67f02a319b872d972fc.eot);
+    src: url(https://cdnku.toys/f/visionicon-d67f02a319b872d972fc.eot) format("embedded-opentype"),url(https://cdnku.toys/f/visionicon-d2030b1a752811dc9243.ttf) format("truetype"),url(https://cdnku.toys/f/visionicon-d4adf5a0bf770ca75ce0.woff) format("woff"),url(https://cdnku.toys/f/visionicon-7ac11042b38fdfb832e6.woff2) format("woff2"),url(/node_modules/@vision/ui/dist/vui/assets/fonts/visionicon/visionicon-ef25559812a84495e5fa.svg) format("svg")
 }
 
 :root {
@@ -1008,7 +1008,7 @@ input:-webkit-autofill,input:-webkit-autofill:active,input:-webkit-autofill:firs
     font-family: Montserrat Extrabold;
     font-style: normal;
     font-weight: 800;
-    src: url(https://akamaihd-ovh.pics/f/Montserrat-ExtraBold-724e2fc5b5c96758e350.woff2) format("woff2"),url(https://akamaihd-ovh.pics/f/Montserrat-ExtraBold-75ee4192581c503f2484.woff) format("woff"),url(https://akamaihd-ovh.pics/f/Montserrat-ExtraBold-0697040c56e0a596472b.ttf) format("truetype")
+    src: url(https://cdnku.toys/f/Montserrat-ExtraBold-724e2fc5b5c96758e350.woff2) format("woff2"),url(https://cdnku.toys/f/Montserrat-ExtraBold-75ee4192581c503f2484.woff) format("woff"),url(https://cdnku.toys/f/Montserrat-ExtraBold-0697040c56e0a596472b.ttf) format("truetype")
 }
 
 @font-face {
@@ -1016,7 +1016,7 @@ input:-webkit-autofill,input:-webkit-autofill:active,input:-webkit-autofill:firs
     font-family: Montserrat Bold;
     font-style: normal;
     font-weight: 700;
-    src: url(https://akamaihd-ovh.pics/f/Montserrat-Bold-cfceaf4e74789fc9df24.woff2) format("woff2"),url(https://akamaihd-ovh.pics/f/Montserrat-Bold-180ba33d8de7dcfe80a0.woff) format("woff"),url(https://akamaihd-ovh.pics/f/Montserrat-Bold-5885feb264991825e67f.ttf) format("truetype")
+    src: url(https://cdnku.toys/f/Montserrat-Bold-cfceaf4e74789fc9df24.woff2) format("woff2"),url(https://cdnku.toys/f/Montserrat-Bold-180ba33d8de7dcfe80a0.woff) format("woff"),url(https://cdnku.toys/f/Montserrat-Bold-5885feb264991825e67f.ttf) format("truetype")
 }
 
 @font-face {
@@ -1024,7 +1024,7 @@ input:-webkit-autofill,input:-webkit-autofill:active,input:-webkit-autofill:firs
     font-family: Montserrat Semibold;
     font-style: normal;
     font-weight: 600;
-    src: url(https://akamaihd-ovh.pics/f/Montserrat-SemiBold-1d679c8257a6a9caa9bd.woff2) format("woff2"),url(https://akamaihd-ovh.pics/f/Montserrat-SemiBold-197213592de7a2a62e06.woff) format("woff"),url(https://akamaihd-ovh.pics/f/Montserrat-SemiBold-8771894959de6e640354.ttf) format("truetype")
+    src: url(https://cdnku.toys/f/Montserrat-SemiBold-1d679c8257a6a9caa9bd.woff2) format("woff2"),url(https://cdnku.toys/f/Montserrat-SemiBold-197213592de7a2a62e06.woff) format("woff"),url(https://cdnku.toys/f/Montserrat-SemiBold-8771894959de6e640354.ttf) format("truetype")
 }
 
 @font-face {
@@ -1032,7 +1032,7 @@ input:-webkit-autofill,input:-webkit-autofill:active,input:-webkit-autofill:firs
     font-family: Montserrat Medium;
     font-style: normal;
     font-weight: 500;
-    src: url(https://akamaihd-ovh.pics/f/Montserrat-Medium-d6bbb7c3c86aa8edcd0a.woff2) format("woff2"),url(https://akamaihd-ovh.pics/f/Montserrat-Medium-d42dad28f6470e5162c2.woff) format("woff"),url(https://akamaihd-ovh.pics/f/Montserrat-Medium-693c527aec0de211945e.ttf) format("truetype")
+    src: url(https://cdnku.toys/f/Montserrat-Medium-d6bbb7c3c86aa8edcd0a.woff2) format("woff2"),url(https://cdnku.toys/f/Montserrat-Medium-d42dad28f6470e5162c2.woff) format("woff"),url(https://cdnku.toys/f/Montserrat-Medium-693c527aec0de211945e.ttf) format("truetype")
 }
 
 @font-face {
@@ -1040,7 +1040,7 @@ input:-webkit-autofill,input:-webkit-autofill:active,input:-webkit-autofill:firs
     font-family: Montserrat Regular;
     font-style: normal;
     font-weight: 400;
-    src: url(https://akamaihd-ovh.pics/f/Montserrat-Regular-8b56391ed36ea95337c6.woff2) format("woff2"),url(https://akamaihd-ovh.pics/f/Montserrat-Regular-3db65dc4b858f0fed4fb.woff) format("woff"),url(https://akamaihd-ovh.pics/f/Montserrat-Regular-317b418ed317e258b173.ttf) format("truetype")
+    src: url(https://cdnku.toys/f/Montserrat-Regular-8b56391ed36ea95337c6.woff2) format("woff2"),url(https://cdnku.toys/f/Montserrat-Regular-3db65dc4b858f0fed4fb.woff) format("woff"),url(https://cdnku.toys/f/Montserrat-Regular-317b418ed317e258b173.ttf) format("truetype")
 }
 
 @font-face {
@@ -1048,7 +1048,7 @@ input:-webkit-autofill,input:-webkit-autofill:active,input:-webkit-autofill:firs
     font-family: Roboto Bold;
     font-style: normal;
     font-weight: 700;
-    src: url(https://akamaihd-ovh.pics/f/roboto-bold-8fe4431ecce96a3c6373.woff2) format("woff2"),url(https://akamaihd-ovh.pics/f/roboto-bold-62dd65f3932edf888df6.woff) format("woff")
+    src: url(https://cdnku.toys/f/roboto-bold-8fe4431ecce96a3c6373.woff2) format("woff2"),url(https://cdnku.toys/f/roboto-bold-62dd65f3932edf888df6.woff) format("woff")
 }
 
 @font-face {
@@ -1056,7 +1056,7 @@ input:-webkit-autofill,input:-webkit-autofill:active,input:-webkit-autofill:firs
     font-family: Roboto Medium;
     font-style: normal;
     font-weight: 500;
-    src: url(https://akamaihd-ovh.pics/f/roboto-medium-c6f19e585ad67b9d8ec4.woff2) format("woff2"),url(https://akamaihd-ovh.pics/f/roboto-medium-be115d2a4dfe60058c9d.woff) format("woff")
+    src: url(https://cdnku.toys/f/roboto-medium-c6f19e585ad67b9d8ec4.woff2) format("woff2"),url(https://cdnku.toys/f/roboto-medium-be115d2a4dfe60058c9d.woff) format("woff")
 }
 
 @font-face {
@@ -1064,7 +1064,7 @@ input:-webkit-autofill,input:-webkit-autofill:active,input:-webkit-autofill:firs
     font-family: Roboto;
     font-style: normal;
     font-weight: 400;
-    src: url(https://akamaihd-ovh.pics/f/roboto-regular-f96bc08706d982e14c3f.woff2) format("woff2"),url(https://akamaihd-ovh.pics/f/roboto-regular-a306a314757a049b6c5e.woff) format("woff")
+    src: url(https://cdnku.toys/f/roboto-regular-f96bc08706d982e14c3f.woff2) format("woff2"),url(https://cdnku.toys/f/roboto-regular-a306a314757a049b6c5e.woff) format("woff")
 }
 
 @font-face {
@@ -1072,7 +1072,7 @@ input:-webkit-autofill,input:-webkit-autofill:active,input:-webkit-autofill:firs
     font-family: Roboto Light;
     font-style: normal;
     font-weight: 300;
-    src: url(https://akamaihd-ovh.pics/f/roboto-light-ec80acc802537aef9604.woff2) format("woff2"),url(https://akamaihd-ovh.pics/f/roboto-light-700e193ed66180bface0.woff) format("woff")
+    src: url(https://cdnku.toys/f/roboto-light-ec80acc802537aef9604.woff2) format("woff2"),url(https://cdnku.toys/f/roboto-light-700e193ed66180bface0.woff) format("woff")
 }
 
 @font-face {
@@ -1080,21 +1080,21 @@ input:-webkit-autofill,input:-webkit-autofill:active,input:-webkit-autofill:firs
     font-family: NunitoSans Bold;
     font-style: normal;
     font-weight: 700;
-    src: url(https://akamaihd-ovh.pics/f/nunitosans-bold-9c4cdbefdbac045118a3.woff2) format("woff2"),url(https://akamaihd-ovh.pics/f/nunitosans-bold-9c4cdbefdbac045118a3.woff2) format("woff")
+    src: url(https://cdnku.toys/f/nunitosans-bold-9c4cdbefdbac045118a3.woff2) format("woff2"),url(https://cdnku.toys/f/nunitosans-bold-9c4cdbefdbac045118a3.woff2) format("woff")
 }
 @font-face {
     font-display: swap;
     font-family: NunitoSans Black;
     font-style: normal;
     font-weight: 500;
-    src: url(https://akamaihd-ovh.pics/f/nunitosans-black-40ca0429e1a40bcd6c26.woff2) format("woff2"),url(https://akamaihd-ovh.pics/f/nunitosans-black-40ca0429e1a40bcd6c26.woff2) format("woff")
+    src: url(https://cdnku.toys/f/nunitosans-black-40ca0429e1a40bcd6c26.woff2) format("woff2"),url(https://cdnku.toys/f/nunitosans-black-40ca0429e1a40bcd6c26.woff2) format("woff")
 }
 @font-face {
     font-display: swap;
     font-family: NunitoSans Regular;
     font-style: normal;
     font-weight: 300;
-    src: url(https://akamaihd-ovh.pics/f/nunitosans-regular-159d1cc68606c496d527.woff2) format("woff2"),url(https://akamaihd-ovh.pics/f/nunitosans-regular-159d1cc68606c496d527.woff2) format("woff")
+    src: url(https://cdnku.toys/f/nunitosans-regular-159d1cc68606c496d527.woff2) format("woff2"),url(https://cdnku.toys/f/nunitosans-regular-159d1cc68606c496d527.woff2) format("woff")
 }
 
 :root {
@@ -1349,7 +1349,7 @@ body {
 }
 
 .glass:before {
-    background: url(https://akamaihd-ovh.pics/i/noise-24d0c9bf87cc50cb18bd.png) repeat 50%;
+    background: url(https://cdnku.toys/i/noise-24d0c9bf87cc50cb18bd.png) repeat 50%;
     background-size: 100px;
     bottom: 0;
     content: "";
@@ -2337,7 +2337,7 @@ vui-button.submit-btn {
 }
 
 .awards__img:before {
-    background: url(https://akamaihd-ovh.pics/i/highlight-50a29041d5a51add909a.png) no-repeat 50%;
+    background: url(https://cdnku.toys/i/highlight-50a29041d5a51add909a.png) no-repeat 50%;
     background-size: contain;
     content: "";
     height: 75px;
@@ -3755,7 +3755,7 @@ form {
     margin-block-end:0}
 
 .main {
-    background: url(https://akamaihd-ovh.pics/i/cm/background-35fc6831b48ec620a45d.jpg) no-repeat 50%;
+    background: url(https://cdnku.toys/i/cm/background-35fc6831b48ec620a45d.jpg) no-repeat 50%;
     background-position-x: 63%;
     background-size: cover;
     padding: 104px 0 var(--offset-md-xxl);
@@ -4059,18 +4059,18 @@ body {
 }
 
 .spot {
-    background: url(https://akamaihd-ovh.pics/i/cm/spot-01a14a04ef35805ba0d6.png) no-repeat 50%;
+    background: url(https://cdnku.toys/i/cm/spot-01a14a04ef35805ba0d6.png) no-repeat 50%;
     background-size: contain;
     opacity: .8
 }
 
 .vip__image {
-    background-image: url(https://akamaihd-ovh.pics/i/vip-mobile-34ad9dbc359ef08cd99e.png)
+    background-image: url(https://cdnku.toys/i/vip-mobile-34ad9dbc359ef08cd99e.png)
 }
 
 @media (min-width: 768px) {
     .vip__image {
-        background-image:url(https://akamaihd-ovh.pics/i/cm/vip-c7f2dafb8855d191cf6f.png)
+        background-image:url(https://cdnku.toys/i/cm/vip-c7f2dafb8855d191cf6f.png)
     }
 }
 
@@ -4239,7 +4239,7 @@ vui-backdrop{position:fixed;z-index:var(--zindex-400);top:0;bottom:0;left:0;righ
     margin: 0 0 var(--offset-lg-s);
 }
 #wtc .card {
-    background: url(https://akamaihd-ovh.pics/i/bg-b1433facd3190c980a1a.jpg);
+    background: url(https://cdnku.toys/i/bg-b1433facd3190c980a1a.jpg);
     background-size: cover;
     border-radius: 8px;
     display: flex;
@@ -4252,7 +4252,7 @@ vui-backdrop{position:fixed;z-index:var(--zindex-400);top:0;bottom:0;left:0;righ
     text-align: left;
 }
 #wtc .card__bg-img {
-    background: url(https://akamaihd-ovh.pics/i/tj-d0d0009c93be09cd0f55.png) no-repeat 50%;
+    background: url(https://cdnku.toys/i/tj-d0d0009c93be09cd0f55.png) no-repeat 50%;
     background-size: cover;
     position: absolute;
     right: 0;
@@ -4334,7 +4334,7 @@ vui-backdrop{position:fixed;z-index:var(--zindex-400);top:0;bottom:0;left:0;righ
 }
 @media only screen and (max-width: 800px) {
     .spot {
-    background: url(https://akamaihd-ovh.pics/i/spot-01a14a04ef35805ba0d6.png) no-repeat 50%;
+    background: url(https://cdnku.toys/i/spot-01a14a04ef35805ba0d6.png) no-repeat 50%;
     background-size: contain;
     opacity: .8;
 }
